@@ -1,0 +1,8 @@
+D:\dev\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\dev\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\dev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\dev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\cicd\bin\WebApplication1.dll
+D:\cicd\bin\WebApplication1.pdb
+D:\cicd\obj\Debug\WebApplication1.dll
+D:\cicd\obj\Debug\WebApplication1.pdb
